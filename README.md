@@ -26,8 +26,11 @@ cache behaviour:
 
 ## Run it
 
+
+
 Paste `main.swift` into an online Swift runner (e.g. swiftfiddle.com) or run locally with:
 
 ```
 swift main.swift
 ```
+Example:<img width="2494" height="1114" alt="image" src="https://github.com/user-attachments/assets/06d8b3e5-e466-4d3c-ad0d-918e28e08033" />
